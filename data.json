@@ -1,0 +1,27 @@
+
+    {
+        "std1":{
+            "name":"Ahmed",
+            "age":20,
+            "id":234,
+            "img":"images.jpg"
+        },
+        "std2":{
+            "name":"Rehan",
+            "age":25,
+            "id":236,
+            "img":"images.jpg"
+        },
+        "std3":{
+            "name":"Imran",
+            "age":23,
+            "id":232,
+            "img":"images.jpg"
+        },
+        "std4":{
+            "name":"Razzaq",
+            "age":24,
+            "id":235,
+            "img":"images.jpg"
+        }
+    }
